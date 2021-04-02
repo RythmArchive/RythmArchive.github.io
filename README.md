@@ -18,5 +18,5 @@ This is solely meant to be an archive of all the Rythm bots. If you're just look
 |Rythm Events#5353|692700354126544896|.|[Invite](https://discord.com/oauth2/authorize?client_id=692700354126544896&scope=bot&response_type=code)|No|Defunct
 |Rythm Games#3492|500843725656817684|Unknown|[Invite](https://discord.com/oauth2/authorize?client_id=500843725656817684&scope=bot&response_type=code)|No|Defunct
 |Rythm Announcements#7353|670288529112432690|!|[Invite](https://discord.com/oauth2/authorize?client_id=670288529112432690&scope=bot&response_type=code)|No|Active
-|Rythm Moderation#6291|764805044540538900|N/A|[Invite](https://discord.com/oauth2/authorize?client_id=764805044540538900&permissions=8&scope=bot&response_type=code)|No|Active
+|Rythm Moderation#6291|764805044540538900|-|[Invite](https://discord.com/oauth2/authorize?client_id=764805044540538900&permissions=8&scope=bot&response_type=code)|No|Active
 |Rythm Support#7554|359356444883025923|N/A|[Invite](https://discord.com/oauth2/authorize?client_id=359356444883025923&permissions=8&scope=bot&response_type=code)|No|Active
