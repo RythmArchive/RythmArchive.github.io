@@ -1,6 +1,8 @@
-All Rythm bots that we're publicly aware of.
+All Rythm bots that we're publicly aware of. **This is an unofficial list and may not be kept completely up to date.**
 
 This is solely meant to be an archive of all the Rythm bots. If you're just looking to invite Rythm to your server, check out [https://rythm.fm/invite](https://rythm.fm/invite).
+
+Some bots on this list require Rythm Premium. [Learn more about Premium and support the developers!](https://rythm.fm/premium)
 
 *There is at least one bot missing from this list. If you're aware of what it is, please let me know @JBMagination#5512.*
 
