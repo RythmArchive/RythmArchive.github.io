@@ -22,3 +22,4 @@ Some bots on this list require Rythm Premium. [Learn more about Premium and supp
 |Rythm Announcements#7353|670288529112432690|!|[Invite](https://discord.com/oauth2/authorize?client_id=670288529112432690&scope=bot&response_type=code)|No|Active
 |Rythm Moderation#6291|764805044540538900|-|[Invite](https://discord.com/oauth2/authorize?client_id=764805044540538900&permissions=8&scope=bot&response_type=code)|No|Active
 |Rythm Support#7554|359356444883025923|rs|[Invite](https://discord.com/oauth2/authorize?client_id=359356444883025923&permissions=8&scope=bot&response_type=code)|No|Active
+|Rythm 1#8703|814675248008003614|!|[Invite](https://discord.com/oauth2/authorize?client_id=814675248008003614&permissions=8&scope=bot&response_type=code)|No|Active
