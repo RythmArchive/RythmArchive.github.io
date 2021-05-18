@@ -2,11 +2,9 @@ All Rythm bots that we're publicly aware of. **This is an unofficial list and ma
 
 This is solely meant to be an archive of all the Rythm bots. If you're just looking to invite Rythm to your server, check out [https://rythm.fm/invite](https://rythm.fm/invite).
 
-*There is at least one bot missing from this list. If you're aware of what it is, please let me know @JBMagination#5512.*
-
 |Username|Description|ID|Prefix|Invite|Addable|Status
 | --- | --- | --- | --- | --- | --- | --- |
-|Rythm#3722|The main Rythm bot|235088799074484224|!|[Invite](https://discord.com/oauth2/authorize?client_id=235088799074484224&permissions=8&scope=bot+applications.commands&response_type=code&redirect_uri=https%3A%2F%2Frythm.fm%2Fthanks)|Yes|Active
+|Rythm#3722|The main Rythm bot.|235088799074484224|!|[Invite](https://discord.com/oauth2/authorize?client_id=235088799074484224&permissions=8&scope=bot+applications.commands&response_type=code&redirect_uri=https%3A%2F%2Frythm.fm%2Fthanks)|Yes|Active
 |Rythm 2#2000||252128902418268161|>|[Invite](https://discord.com/oauth2/authorize?client_id=252128902418268161&permissions=8&scope=bot+applications.commands&response_type=code&redirect_uri=https%3A%2F%2Frythm.fm%2Fthanks)|Yes|Active
 |Rythm 3#0817|Requires [Rythm Premium](https://rythm.fm/premium).|814675737331105832|&|[Invite](https://discord.com/oauth2/authorize?client_id=814675737331105832&permissions=8&scope=bot+applications.commands&response_type=code&redirect_uri=https%3A%2F%2Frythm.fm%2Fthanks)|Yes|Active
 |Rythm 4#0952|Requires [Rythm Premium](https://rythm.fm/premium).|814675803065155585|%|[Invite](https://discord.com/oauth2/authorize?client_id=814675803065155585&permissions=8&scope=bot+applications.commands&response_type=code&redirect_uri=https%3A%2F%2Frythm.fm%2Fthanks)|Yes|Active
@@ -26,3 +24,4 @@ This is solely meant to be an archive of all the Rythm bots. If you're just look
 |Rythm Moderation#6291||764805044540538900|-|[Invite](https://discord.com/oauth2/authorize?client_id=764805044540538900&permissions=8&scope=bot&response_type=code)|No|Active
 |Rythm Support#7554||359356444883025923|rs|[Invite](https://discord.com/oauth2/authorize?client_id=359356444883025923&permissions=8&scope=bot&response_type=code)|No|Active
 |Rythm 1#8703|Confirmed by a Rythm admin to be for use in "official servers". Accessible in [Discord Townhall](https://discord.gg/discord-townhall).|814675248008003614|!|[Invite](https://discord.com/oauth2/authorize?client_id=814675248008003614&permissions=8&scope=bot&response_type=code)|No|Active
+|Rythm Radio#7755|Behaves similarly to "Rythm 1", but with a lack of DM commands. Accessible in [PlayStation](https://discord.gg/ps).|844148625328046080|None|[Invite](https://discord.com/oauth2/authorize?client_id=814675248008003614&permissions=8&scope=bot&response_type=code)|No|Active
