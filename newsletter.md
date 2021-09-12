@@ -8,22 +8,22 @@ Success! Thanks for signing up - you're now part of the club 🎉. Some news is 
 # DM welcome message
 <details>
 <summary>Formatted text</summary>
-Welcome to <b>**🥁~~ ✨ Rythm Newsletter*✨ ~~**</b>
-</br>As we mentioned in our announcement, we're here to stay and are working on some 🔥 new stuff, so buckle up - this is going to be a wild ride.
+Welcome to :drum: ~~ :sparkles: Rythm Newsletter*:sparkles: ~~
+As we mentioned in our announcement, we're here to stay and are working on some :fire: new stuff, so buckle up - this is going to be a wild ride.
 
-You can expect to be hearing about a few things from us in the newsletter 🎉
-* Future product updates and leaks, we'll be keeping all of you posted on all of our progress.
-* News about <img src="https://jbmagination.com/RythmReleases/assets/886182821754966026.png" alt=":rythmsmall:" width="22px"> Rythm, just in case people are writing about us or what we're doing.
-* Big things happening in our community, like giveaways and fun events.
-* and other fun stuff - like merch drops and stuff you'll only find out about if you stay subscribed!
+You can expect to be hearing about a few things from us in the newsletter :tada:
+     • Future product updates and leaks, we'll be keeping all of you posted on all of our progress.
+     • News about :rythmsmall: Rythm, just in case people are writing about us or what we're doing.
+     • Big things happening in our community, like giveaways and fun events.
+     • and other fun stuff - like merch drops and stuff you'll only find out about if you stay subscribed!
 
-We have a few important things we wanted to mention before we set off on this journey together 🙏
-* Keep the bot in your server, this way we can reach you with our newsletter!
-* We would love it if you used the button below to connect your email as well so we can reach you outside of Discord.
+We have a few important things we wanted to mention before we set off on this journey together :pray:
+     • Keep the bot in your server, this way we can reach you with our newsletter!
+     • We would love it if you used the button below to connect your email as well so we can reach you outside of Discord.
 
 If you read all of this and decided that it isn't for you, we understand - there's a button below to unsubscribe.
 
-\- Rythm Team, signing off
+- Rythm Team, signing off
 
 [Connect your email](https://rythm.fm/newsletter/subscribe) | [Unsubscribe 😔](#)
 </details>
