@@ -42,3 +42,4 @@ Welcome back! It's nice to see you here again 🎉
 
 [Unsubscribe 😔](#)
 
+<script>twemoji.parse(document.body);</script>
