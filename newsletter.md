@@ -1,3 +1,6 @@
+---
+title: Rythm newsletter archive
+---
 # Promotion message
 <img src="https://jbmagination.com/RythmReleases/assets/newsletter1.png">
 
