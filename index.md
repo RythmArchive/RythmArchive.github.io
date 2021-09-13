@@ -1,2 +1,2 @@
-* [Access the bot list](https://jbmagination.com/RythmReleases/bots)
-* [Access the newsletter](https://jbmagination.com/RythmReleases/newsletter)
+* [Access the bot list](https://jbmagination.com/RythmArchive/bots)
+* [Access the newsletter](https://jbmagination.com/RythmArchive/newsletter)
