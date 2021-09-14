@@ -1,9 +1,9 @@
 ---
 title: Rythm bots
 ---
-All Rythm bots that we're publicly aware of. **This is an unofficial list.** As of September 12th, 2021, this list has been confirmed by a member of Rythm support to be *likely* up to date.
+All Rythm bots that we're publicly aware of. As of September 12th, 2021, this list has been confirmed by a member of Rythm support to be *likely* up to date.
 
-This is solely meant to be an archive of all the Rythm bots. ~~If you're just looking to invite Rythm to your server, check out [https://rythm.fm/invite](https://rythm.fm/invite).~~
+This is solely meant to be an archive of all the Rythm bots. ~~If you're just looking to invite Rythm to your server, check out [https://rythm.fm/invite](https://rythm.fm/invite).~~ **This is an unofficial list. It is a personal project of mine and is not affiliated with Rythm.** 
 
 **Rythm is shutting down on September 15th, 2021, at 8:00am PST.** [Visit the Rythm website for more details about Rythm's future.](https://rythm.fm)
 
