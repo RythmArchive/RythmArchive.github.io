@@ -1,11 +1,11 @@
 ---
 title: Rythm bots
 ---
-All Rythm bots that we're publicly aware of. As of September 14th, 2021, this list has been confirmed by a member of Rythm support to be *likely* up to date.
+All Rythm bots that we're publicly aware of.
 
-This is solely meant to be an archive of all the Rythm bots. ~~If you're just looking to invite Rythm to your server, check out [https://rythm.fm/invite](https://rythm.fm/invite).~~ **This is an unofficial list. It is a personal project of mine and is not affiliated with Rythm.** 
+**Rythm has shut down.** [Visit the Rythm website for more details about Rythm's future](https://rythm.fm).
 
-**Rythm has shut down.** [Visit the Rythm website for more details about Rythm's future](https://rythm.fm)[.](https://www.youtube.com/watch?v=4Q46xYqUwZQ)
+**This is an unofficial list; it is a personal project of mine and is not affiliated with Rythm;** however, I currently am a trial mod for the Rythm community Discord server, and am aware that this list may be lacking information. Such lacking information I only discovered because of my position as a staff member, and as such I will not put it on this list. Keywords in that first sentence: publicly.
 
 |Username|Description|ID|Prefix|Invite|Addable|Status
 | --- | --- | --- | --- | --- | --- | --- |
@@ -45,7 +45,7 @@ This is solely meant to be an archive of all the Rythm bots. ~~If you're just lo
 |Naruto BETA#5110|Rythm used to be called Naruto. This is the Rythm Canary equivalent of that. The application has since been deleted.|271244102912180234|`?`|[Invite](https://discord.com/oauth2/authorize?client_id=271244102912180234&permissions=8&scope=bot&response_type=code)|No|Defunct
 |Restarter#0764|Notified staff members if shards crashed. Technically addable today but the bot isn't verified.|277144710454444032|Unknown|[Invite](https://discord.com/oauth2/authorize?client_id=277144710454444032&permissions=8&scope=bot&response_type=code)|Yes|Defunct
 |Unknown|Described as "Rythm beta". The application has since been deleted.|291525575611383808|`?`|[Invite](https://discordapp.com/oauth2/authorize?client_id=291525575611383808&scope=bot&permissions=70380544)|No|Defunct
-|The Protector#3210|Moderation bot by Toast.|301424917474443264|Unknown|[Invite](https://discord.com/oauth2/authorize?client_id=301424917474443264&permissions=8&scope=bot&response_type=code)|No|Defunct
+|The Protector#3210|Public moderation bot.|301424917474443264|`-`|[Invite](https://discord.com/oauth2/authorize?client_id=301424917474443264&permissions=8&scope=bot&response_type=code)|No|Defunct
 |Toast Guardian#7413|Another moderation bot by Toast. Was only ever used in [Rythm Community](https://discord.gg/rythm) server.|426288555627905024|Unknown|[Invite](https://discord.com/oauth2/authorize?client_id=426288555627905024&permissions=8&scope=bot&response_type=code)|No|Defunct
 |Unknown|Described as "Rythm ancient". A fun experiment that Toast and some other staff members did, using old Python source code from 2017-- and for reference, Rythm later switched to Java. The application has since been deleted.|707655486190911560|Unknown|[Invite](https://discord.com/oauth2/authorize?client_id=707655486190911560&permissions=8&scope=bot&response_type=code)|No|Defunct
 |Rythm 3#4828|April Fools joke for 2020. Rickrolled people when they attempted to play music with it.|694834257494802453|`?`|[Invite](https://discord.com/oauth2/authorize?client_id=694834257494802453&permissions=8&scope=bot&response_type=code)|No|Defunct
