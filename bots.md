@@ -5,7 +5,7 @@ All Rythm bots that we're publicly aware of.
 
 **Rythm has shut down.** [Visit the Rythm website for more details about Rythm's future](https://rythm.fm).
 
-**This is an unofficial list; it is a personal project of mine and is not affiliated with Rythm;** however, I used to be a trial mod for the Rythm community Discord server, and am aware that this list may be lacking information. Such lacking information I would only be able to discover because of my position as a staff member, and as such I will not put it on this list. Keywords in that first sentence: publicly.
+**This is an unofficial list; it is a personal project of mine and is not affiliated with Rythm;** however, I used to be a trial moderator for the Rythm community Discord server, and am aware that this list may be lacking information. Such lacking information I would only be able to discover because of my position as a staff member, and as such I will not put it on this list. Keywords in that first sentence: publicly.
 
 |Username|Description|ID|Prefix|Invite|Addable|Status
 | --- | --- | --- | --- | --- | --- | --- |
@@ -38,7 +38,7 @@ All Rythm bots that we're publicly aware of.
 |Rythm Toolkit#0213|Used for acquiring roles in the [Rythm Community](https://discord.gg/rythm) server.|860132887621009408|None|[Invite](https://discord.com/oauth2/authorize?client_id=860132887621009408&permissions=8&scope=bot&response_type=code)|No|Active
 |Rythm Newsletter#0787|Issues a newsletter for new updates on Rythm post-shutdown. Accessible in the [Rythm Community](https://discord.gg/rythm) and [Rythm Support](https://discord.gg/rythm-support) servers.|885651121350275142|None|[Invite](https://discord.com/oauth2/authorize?client_id=885651121350275142&permissions=8&scope=bot&response_type=code)|No|Active
 |Rythm Automod#5520|Automatically moderates chat in the [Rythm Community](https://discord.gg/rythm) server.|871747512866836530|None|[Invite](https://discord.com/oauth2/authorize?client_id=871747512866836530&permissions=8&scope=bot&response_type=code)|No|Active
-|Modmail#7718|Used to submit suggestions, feedback, and any problems with/for Rythm. Accessible in the [Rythm Community](https://discord.gg/rythm) server.|859113612866093146|None|[Invite](https://discord.com/oauth2/authorize?client_id=859113612866093146&permissions=8&scope=bot&response_type=code)|No|Active
+|Modmail#7718|Used to submit suggestions, feedback, and any problems with/for Rythm. Based off of [Dragory](https://github.com/Dragory)'s [Modmail Bot](https://github.com/Dragory/modmailbot). Accessible in the [Rythm Community](https://discord.gg/rythm) server.|859113612866093146|`!`|[Invite](https://discord.com/oauth2/authorize?client_id=859113612866093146&permissions=8&scope=bot&response_type=code)|No|Active
 |Rythm Ranks#3686|Lets you view your rank in the [Rythm Community](https://discord.gg/rythm) server.|875743812725645383|`!`|[Invite](https://discord.com/oauth2/authorize?client_id=875743812725645383&permissions=8&scope=bot&response_type=code)|No|Active
 |Rythm Bug Reporter#5143|Used to report bugs for Rythm in the [Rythm Testing](https://discord.gg/KU56vWQ5CJ) server.|887144372439760937|Unknown|[Invite](https://discord.com/oauth2/authorize?client_id=859113612866093146&permissions=8&scope=bot&response_type=code)|No|Active
 |Premium Bot#2582|Used for Rythm staff to get free [Rythm Premium](https://rythm.fm/premium).|820633984698417163|`-`|[Invite](https://discord.com/oauth2/authorize?client_id=820633984698417163&permissions=8&scope=bot&response_type=code)|No|Defunct
