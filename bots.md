@@ -3,8 +3,6 @@ title: Rythm bots
 ---
 All Rythm bots that we're publicly aware of.
 
-**Rythm has shut down.** [Visit the Rythm website for more details about Rythm's future](https://rythm.fm).
-
 **This is an unofficial list; it is a personal project of mine and is not affiliated with Rythm;** however, I used to be a trial moderator for the Rythm community Discord server, and am aware that this list may be lacking information. Such lacking information I would only be able to discover because of my position as a staff member, and as such I will not put it on this list. Keywords in that first sentence: publicly.
 
 |Username|Description|ID|Prefix|Invite|Addable|Status
