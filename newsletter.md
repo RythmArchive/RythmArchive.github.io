@@ -1,7 +1,7 @@
 ---
 title: Rythm newsletter archive
 ---
-## NOTICE: This is an unofficial archive. It is a personal project of mine and is not affiliated with Rythm.
+*NOTICE: This is an unofficial archive.* It is a personal project of [mine](https://jbmagination.com) and **is not affiliated with Rythm.**
 
 ### Promotion message
 <img src="https://RythmArchive.github.io/assets/newsletter1.png">
