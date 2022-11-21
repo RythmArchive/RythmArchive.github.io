@@ -3,7 +3,11 @@ title: Rythm bots
 ---
 **The original, and most well known, part of the Rythm Archive!** All Rythm bots that we're publicly aware of.
 
-**This is an unofficial list; it is a personal project of [mine](https://jbmagination.com) and is not affiliated with Rythm;** however, I used to be a trial moderator for the Rythm Community (now Discord.fm) Discord server, and am aware that this list may be lacking information. Such lacking information I would only be able to discover because of my position as a staff member, and as such I will not put it on this list. Keywords in that first sentence at the top of this page: publicly.
+**This is an unofficial list; it is a personal project of [mine](https://jbmagination.com) and is not affiliated with Rythm.** 
+
+Important note: I used to be a trial moderator for the Rythm Community (now Discord.fm) Discord server, and am aware that this list may be lacking information. Such lacking information I would only be able to discover because of my position as a staff member, and as such I will not put it on this list. Remember, this is what we're *publicly* aware of!
+
+If you, as someone who is *not* a Rythm staff member, are able to find a bot that is not in this list that you think should be in this list, [let me know in the Rythm Archive server](https://discord.gg/y4rvSakACD)!
 
 |Username|Description|ID|Prefix|Invite|Addable|Status
 | --- | --- | --- | --- | --- | --- | --- |
