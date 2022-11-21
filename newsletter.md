@@ -17,7 +17,7 @@ Every Rythm newsletter.
 <details>
 <summary>Raw Text</summary>
 
-{% highlight %}
+~~~
 Welcome to 🥁 **\~\~ ✨ Rythm Newsletter*✨ \~\~**
 As we mentioned in our announcement, we're here to stay and are working on some 🔥 new stuff, so buckle up - this is going to be a wild ride.
 
@@ -34,7 +34,7 @@ We have a few important things we wanted to mention before we set off on this jo
 If you read all of this and decided that it isn't for you, we understand - there's a button below to unsubscribe.
 
 - Rythm Team, signing off
-{% endhighlight %}
+~~~
 
 </details>
 
