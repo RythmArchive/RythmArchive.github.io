@@ -1,6 +1,8 @@
 ---
-title: Rythm newsletter archive
+title: Rythm newsletter
 ---
+Every Rythm newsletter.
+
 *NOTICE: This is an unofficial archive.* It is a personal project of [mine](https://jbmagination.com) and **is not affiliated with Rythm.**
 
 ### Newsletters
