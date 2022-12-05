@@ -7,7 +7,7 @@ title: Rythm bots
 
 Important note: I used to be a trial moderator for the Rythm Community (now Discord.fm) Discord server, and am aware that this list may be lacking information. Such lacking information I would only be able to discover because of my position as a staff member, and as such I will not put it on this list. Remember, this is what we're *publicly* aware of!
 
-If you, as someone who is *not* a Rythm staff member, are able to find a bot that is not in this list that you think should be in this list, [let me know in the Rythm Archive server](https://discord.gg/y4rvSakACD)!
+If you are able to find a bot that is not in this list that you think should be in this list, [let me know in the Rythm Archive server](https://discord.gg/y4rvSakACD)! *If you're a Rythm staff member, please double check that you're allowed to share!*
 
 |Username|Description|ID|Prefix|Invite|Addable|Status
 | --- | --- | --- | --- | --- | --- | --- |
@@ -52,6 +52,7 @@ If you, as someone who is *not* a Rythm staff member, are able to find a bot tha
 |Rythm 2#3468|Confirmed by Rythm support to be for use in servers owned by Discord. The app name is "Rythm 2 Discord".|814675395700850688|Unknown|[Invite](https://discord.com/oauth2/authorize?client_id=814675395700850688&permissions=8&scope=bot)|No|Defunct
 |Rythm 3#2050|Confirmed by Rythm support to be for use in servers owned by Discord. The app name is "Rythm 3 Discord".|814675464970043422|Unknown|[Invite](https://discord.com/oauth2/authorize?client_id=814675464970043422&permissions=8&scope=bot)|No|Defunct
 |Rythm Radio#7755|The [PlayStation](https://discord.gg/ps) server told me they had a "private instance currently used for testing". A Rythm staff member said in the [Discord.fm](https://discord.gg/dfm) server that it was accessible to "partnered servers only", with later messages about it clarifying it was a Rythm partnership. This instance (likely the only) is accessible in [PlayStation](https://discord.gg/ps).|813834269826613289|None|[Invite](https://discord.com/oauth2/authorize?client_id=813834269826613289&scope=bot)|No|Defunct
+|EDM Radio#3471|Plays EDM music in the [Rythm HQ](https://discord.gg/rythm) server - more specifically, it plays [Monstercat](https://monstercat.com)'s EDM catalog, mostly comprising of [Monstercat Silk](https://www.monstercat.com/silk) & [Monstercat Instinct](https://www.monstercat.com/instinct).|1044379670004641792|`/`|[Invite](https://discord.com/oauth2/authorize?client_id=1044379670004641792&permissions=8&scope=bot)|No|Active
 |Rythm Toolkit#0213|Was used for acquiring roles in the [Discord.fm](https://discord.gg/dfm) server.|860132887621009408|None|[Invite](https://discord.com/oauth2/authorize?client_id=860132887621009408&scope=bot)|No|Active
 |Rythm Newsletter#0787|Issues a newsletter for new updates on Rythm post-shutdown. Accessible in the [Discord.fm](https://discord.gg/dfm) and [Rythm HQ](https://discord.gg/rythm) servers.|885651121350275142|None|[Invite](https://discord.com/oauth2/authorize?client_id=885651121350275142&permissions=8&scope=bot)|No|Active
 |Rythm Automod#5520|Automatically moderated chat in the [Discord.fm](https://discord.gg/dfm) server.|871747512866836530|None|[Invite](https://discord.com/oauth2/authorize?client_id=871747512866836530&permissions=8&scope=bot)|No|Defunct
